@@ -1,2 +1,2 @@
-steamship >= 2.3.13
+steamship-langchain >= 0.0.26
 termcolor >= 2.2.0

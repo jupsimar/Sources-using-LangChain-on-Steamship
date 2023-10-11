@@ -14,8 +14,8 @@
 	},
 	"configTemplate": {},
 	"steamshipRegistry": {
-		"tagline": "Generate text from prompts.",
-		"tagline2": "Just supply a few parameters and generate text.",
+		"tagline": "Simple LangChain prompt-based greeting API",
+		"tagline2": "",
 		"usefulFor": null,
 		"videoURL": null,
 		"githubURL": null,
@@ -27,7 +27,7 @@
 		"authorTwitter": null,
 		"authorURL": null,
 		"tags": [
-			"Prompt API",
+			"LangChain",
 			"Prompt-based Generation",
 			"GPT-3"
 		]
